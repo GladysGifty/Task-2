@@ -1,6 +1,6 @@
 # Task-2
 
-# AUTOMATED REPORT GENERATION 
+# Automated Report Generation 
 
 # COMPANY : CODTECH IT SOLUTIONS
 
