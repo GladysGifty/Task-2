@@ -69,3 +69,10 @@ Read data from a database or .csv file.
 Perform analyses (such as average marks).
 
 Export results as PDFs for parent-teacher meetings.
+
+# OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/46d43bfe-b5b9-4c94-b794-4799601aa16a)
+
+
+![Image](https://github.com/user-attachments/assets/e7dff00b-7d96-4e56-a200-6f589d1542ba)
